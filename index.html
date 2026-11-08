@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi tienda online</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <h1>Productos</h1>
+
+    <input type="text" id="searchInput" placeholder="Buscar productos...">
+
+    <select id="sortProducts">
+        <option value="default">Ordenar productos</option>
+        <option value="asc">Precio: menor a mayor</option>
+        <option value="desc">Precio: mayor a menor</option>
+        <option value="name">Nombre: A-Z</option>
+        <option value="stock">Stock disponible</option>
+    </select>
+
+    <div id="products"></div>
+
+    <button id="cartButton">
+        Ver Cesta (<span id="cartCount">0</span>)
+    </button>
+
+    <div id="cartModal" class="modal">
+        <div class="modal-content">
+            <button id="closeCart">Cerrar</button>
+            <h2>Mi cesta</h2>
+
+            <div id="userInfo"></div>
+            <div id="cartItems"></div>
+
+            <h3>Total: <span id="cartTotal">0.00</span> €</h3>
+
+            <button id="clearCartButton">Vaciar cesta</button>
+            <button id="checkoutButton">Finalizar compra</button>
+        </div>
+    </div>
+
+    <div id="toast"></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

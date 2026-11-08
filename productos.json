@@ -1,0 +1,123 @@
+
+[
+    {
+        "id": 1,
+        "name": "Pizza Margarita",
+        "price": 8.50,
+        "description": "Tomate, mozzarella y albahaca fresca",
+        "stock": 15,
+        "category": "Pizzas clásicas"
+    },
+    {
+        "id": 2,
+        "name": "Pizza 4 Quesos",
+        "price": 10.50,
+        "description": "Mozzarella, gorgonzola, parmesano y queso de cabra",
+        "stock": 12,
+        "category": "Pizzas clásicas"
+    },
+    {
+        "id": 3,
+        "name": "Pizza Pepperoni",
+        "price": 9.50,
+        "description": "Tomate, mozzarella y pepperoni",
+        "stock": 20,
+        "category": "Pizzas clásicas"
+    },
+    {
+        "id": 4,
+        "name": "Pizza Barbacoa",
+        "price": 11.50,
+        "description": "Salsa barbacoa, mozzarella, bacon y carne",
+        "stock": 10,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 5,
+        "name": "Pizza Carbonara",
+        "price": 11.00,
+        "description": "Nata, mozzarella, bacon y champiñones",
+        "stock": 14,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 6,
+        "name": "Pizza Hawaiana",
+        "price": 10.00,
+        "description": "Tomate, mozzarella, jamón y piña",
+        "stock": 8,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 7,
+        "name": "Pizza Vegetal",
+        "price": 9.50,
+        "description": "Tomate, mozzarella, pimiento, cebolla y champiñones",
+        "stock": 12,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 8,
+        "name": "Pizza Prosciutto",
+        "price": 9.00,
+        "description": "Tomate, mozzarella y jamón cocido",
+        "stock": 16,
+        "category": "Pizzas clásicas"
+    },
+    {
+        "id": 9,
+        "name": "Pizza Diavola",
+        "price": 10.50,
+        "description": "Tomate, mozzarella, salami picante y guindilla",
+        "stock": 9,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 10,
+        "name": "Pizza Marinera",
+        "price": 12.50,
+        "description": "Tomate, mozzarella, gambas y atún",
+        "stock": 7,
+        "category": "Pizzas especiales"
+    },
+    {
+        "id": 11,
+        "name": "Patatas Fritas",
+        "price": 3.50,
+        "description": "Ración de patatas fritas",
+        "stock": 25,
+        "category": "Complementos"
+    },
+    {
+        "id": 12,
+        "name": "Nuggets de Pollo",
+        "price": 5.00,
+        "description": "Ración de nuggets de pollo",
+        "stock": 18,
+        "category": "Complementos"
+    },
+    {
+        "id": 13,
+        "name": "Aros de Cebolla",
+        "price": 4.50,
+        "description": "Crujientes aros de cebolla",
+        "stock": 15,
+        "category": "Complementos"
+    },
+    {
+        "id": 14,
+        "name": "Coca-Cola",
+        "price": 2.00,
+        "description": "Refresco de cola",
+        "stock": 30,
+        "category": "Bebidas"
+    },
+    {
+        "id": 15,
+        "name": "Agua Mineral",
+        "price": 1.50,
+        "description": "Botella de agua mineral",
+        "stock": 30,
+        "category": "Bebidas"
+    }
+]

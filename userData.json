@@ -1,0 +1,9 @@
+
+{
+    "nombre": "Cliente",
+    "apellidos": "De prueba",
+    "direccion": "Calle Principal 10",
+    "ciudad": "Cádiz",
+    "codigoPostal": "11001",
+    "email": "cliente@example.com"
+}
